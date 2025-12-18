@@ -1,5 +1,5 @@
 # :dizzy: About Me:
-Hey! I'm Pog!<br><br>🧑‍💻 A Roblox scripter passionate about writing clean and efficient code <br>:school: Currently studying Maths and Computer Science<br>:tv: I enjoy watching StarWars and creating StarWars related media <br>:book: Currently learning calculus<br>:keyboard: Currently working on [Advent of Code](https://adventofcode.com/) <br>🤓 Certified StarWars nerd
+Hey! I'm Pog!<br><br>🧑‍💻 A Roblox scripter passionate about writing clean and efficient code <br>:school: Currently studying Maths and Computer Science<br>:tv: I enjoy watching StarWars and creating StarWars related media <br>:book: Currently learning calculus and Kotlin<br>:keyboard: Currently working on [Advent of Code](https://adventofcode.com/) <br>🤓 Certified StarWars nerd
 
 
 # :computer: Tech Stack:
