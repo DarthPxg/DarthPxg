@@ -44,7 +44,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  ![snake gif](https://github.com/DarthPxg/DarthPxg/blob/output/github-snake-dark.svg)
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/DarthPxg/DarthPxg/output/github-contribution-grid-snake-dark.svg" />
   
   <br/><br/><br/>
 </div>
