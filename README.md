@@ -33,7 +33,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git" /> <br>
-    <img src="https://skillicons.dev/icons?i=python,lua,kotlin" /><br>
+    <img src="https://skillicons.dev/icons?i=python,lua,javascript" /><br>
 </div>
 
 <br/>
