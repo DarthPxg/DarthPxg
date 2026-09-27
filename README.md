@@ -10,13 +10,13 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Advent of Code**
+ 🔭 I’m currently working on **Roblox Commissions**
  
- 🌱 I’m currently learning **Kotlin and calculus**
+ 🌱 I’m currently learning about**Networks and calculus**
 
 💬 Ask me about **Roblox scripting, APIs and discord.py**
 
-⚡ Fun fact **I love watching StarWars**
+⚡ Fun fact **I love watching Star Wars**
 
  </div>
  
