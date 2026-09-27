@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **Roblox Commissions**
  
- 🌱 I’m currently learning about**Networks and calculus**
+ 🌱 I’m currently learning about **Networks and calculus**
 
 💬 Ask me about **Roblox scripting, APIs and discord.py**
 
